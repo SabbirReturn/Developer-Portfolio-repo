@@ -88,14 +88,22 @@ nav li{
 
 /* main section styles */
 main{
-    width: 1140px;
+    max-width: 1140px;
     margin: 0px auto;
+    
 }
 
-/* section styles */
-
+/* section astyels */
 .about{
-    margin: 131px 150px ;
+    background: #FFF8F3;
+    border-radius: 10px;
+    margin-top: 130px;
+    padding: 130px 50px;
+    
+}
+.section-title{
+    text-align: center;
+    
 }
 
 
