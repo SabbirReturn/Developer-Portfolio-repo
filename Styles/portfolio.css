@@ -62,8 +62,8 @@ nav li{
     margin: 51px 200px;
 }
 .image{
-    height: 350px;
-    width: 700px;
+    width: 784px;
+    height: 476px;
 }
 .banner-p1{
     font-weight: 400;
@@ -84,6 +84,18 @@ nav li{
 .batn-primary,.btn-contact{
     margin-top: 24px;
     
+}
+
+/* main section styles */
+main{
+    width: 1140px;
+    margin: 0px auto;
+}
+
+/* section styles */
+
+.about{
+    margin: 131px 150px ;
 }
 
 
