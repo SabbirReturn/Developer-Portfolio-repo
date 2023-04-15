@@ -1,7 +1,17 @@
 *{
     margin: 0px;
     font-family: 'Open Sans', sans-serif;
+
 }
+/* header style */
+.header{
+    background: #FFF8F3;
+    background-image: url('../images/header_bg.png'),url('../images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+    max-width: 1600px;
+  }
+
 /* Nav and header css */
 nav{
     display: flex;
@@ -52,7 +62,8 @@ nav li{
     margin: 51px 200px;
 }
 .image{
-    height: 400px;
+    height: 350px;
+    width: 700px;
 }
 .banner-p1{
     font-weight: 400;
