@@ -96,8 +96,8 @@ main{
 /* section styles */
 .about{
     margin-top: 131px;
-    text-align: center;
     padding: 131px 157px;
+    text-align: center;
 }
 .section-title{
     margin-bottom: 30px;
@@ -105,10 +105,25 @@ main{
     font-weight: 700;
     font-size: 35px;
 }
-.scetiom-description{
-    text-align: center;
+.scetiom-description{ 
     color: #757575;
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
+}
+.info{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 131px;
+    justify-content: space-around;
+}
+.info-title{
+    font-weight: 400;
+    font-size: 20px;
+    color: #757575;
+}
+.info-details{
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
 }
