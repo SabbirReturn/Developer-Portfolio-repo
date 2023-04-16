@@ -89,21 +89,26 @@ nav li{
 /* main section styles */
 main{
     max-width: 1140px;
+    height: 550px;
     margin: 0px auto;
-    
-}
-
-/* section astyels */
-.about{
     background: #FFF8F3;
-    border-radius: 10px;
-    margin-top: 130px;
-    padding: 130px 50px;
-    
+}
+/* section styles */
+.about{
+    margin-top: 131px;
+    text-align: center;
+    padding: 131px 157px;
 }
 .section-title{
-    text-align: center;
-    
+    margin-bottom: 30px;
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
 }
-
-
+.scetiom-description{
+    text-align: center;
+    color: #757575;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
