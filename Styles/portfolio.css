@@ -271,3 +271,53 @@ hr{
     text-align: center;
     color: #FFFFFF;
 }
+.connect{
+    display: flex;
+    background: #FFF8F3;
+    gap: 117px;
+    padding: 138px 230px;
+}
+.connect a{
+    text-decoration: none;
+}
+.connect-title{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: left;
+    color: #181818;
+    margin-bottom: 20px;
+}
+.connect-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.connect a{
+    width: 24px;
+    height: 24px;
+    left: 278px;
+    top: 3760px;
+}
+.connect-subtitle{
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+    margin-bottom: 28px;
+}
+.connect input[type=text],input[type=email],textarea{
+    width: 100%;
+    margin-bottom: 24px;
+    padding:18px 50px 18px 30px ;
+    border-radius: 5px;
+    border: 0px solid #FFF8F3;;
+}
+.sub-btn{
+    width: 150px;
+    height: 64px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    padding: 18px 19px;
+    color: #FFFFFF;
+}
+
